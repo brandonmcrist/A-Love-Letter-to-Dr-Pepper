@@ -1,0 +1,9 @@
+body {
+    background-color: #711F25;
+    }
+.title {
+    text-align: center;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+        }
